@@ -17,8 +17,6 @@
 <hr>
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=999root&show_icons=true&locale=en&layout=compact" alt="999root" /></p>
-
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=999root&" alt="999root" /></p>
 </div>
 
