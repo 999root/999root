@@ -1,12 +1,12 @@
 <div align="center"><img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"></div>
 
-<h1 align="center">i am 999root</h1>
+<h1 align="center">i am 999root</h2>
 
 <div align="center">
 
-  My Best projects can be viewed at [999root.xyz](999root.xyz)
+  go ddos my website at [999root.xyz](999root.xyz)
 
-  Email me at **RootsPublicMail@proton.me**
+  spam my inbox at **RootsPublicMail@proton.me**
   
 </div>
 
