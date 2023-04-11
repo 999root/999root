@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  go ddos my website at [999root.xyz](999root.xyz)
+  go ddos my website at 999root.xyz
 
   spam my inbox at **RootsPublicMail@proton.me**
   
