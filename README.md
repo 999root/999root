@@ -4,6 +4,8 @@
 <div align="center">
 
   go ddos my website at **https://999root.xyz/**
+  
+  go see my other website at **https://999root.github.io**
 
   spam my inbox at **RootsPublicMail@proton.me**
   
