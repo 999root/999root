@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  Hello I'm 999root or Noire, I dabble in a bit of programming/scripting, this page is just to prove that I know maintainable code if it hit me in the face. 
+  Hello I'm 999root or Noire, I dabble in a bit of programming/scripting, this page is just to prove that I actually can code. 
 
   go ddos my website at **https://999root.xyz/**
   
