@@ -9,7 +9,7 @@
   
   go ddos my github page at **https://999root.github.io**
 
-  spam my inbox at **RootsPublicMail@proton.me**
+  spam my inbox at **root@999root.xyz**
 
 </div>
 
