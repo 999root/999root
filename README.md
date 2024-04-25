@@ -2,7 +2,7 @@
 <h1 align="center">999root's Universe</h2>
 
 <div align="center">
-  <p><img src="https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif"></p>
+  <p><img width="800" src="https://i.pinimg.com/originals/c5/4f/fe/c54ffe1f93d7a4c77558e4bb42038cda.gif"></p>
 </div>
 
 <div align="center">
