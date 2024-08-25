@@ -5,5 +5,5 @@
 
 <div align="center">
   <!--<p><img width="900" src="_assets/kohaku.gif"></p>-->
-  <p><img width="900" src="https://64.media.tumblr.com/c1b69894aa3e83cd49bdc6cf1a791b56/tumblr_ntduhqbfT91u9aqcno1_540.gif"></p>
+  <p><img width="900" src="https://www.icegif.com/wp-content/uploads/icegif-2930.gif"></p>
 </div>
